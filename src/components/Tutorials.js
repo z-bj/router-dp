@@ -27,14 +27,3 @@ const Tutorials = (props) => {
   );
 };
 export default Tutorials;
-
-// <Route
-//   path="/tutorial"
-//   render={() =>
-//     this.state.underConst.Tutorials ? (
-//       <Redirect to="/" />
-//     ) : (
-//       { Tutorials }
-//     )
-//   }
-// />;
